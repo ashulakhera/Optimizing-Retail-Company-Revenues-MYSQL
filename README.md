@@ -19,11 +19,11 @@ In this project, I’ve employed a range of SQL functions to analyze and interpr
 
 ## Recommendations :
 
-* Product Development: Focus on expanding product offerings in the "Expensive" and "Elite" categories to capitalize on their higher revenue potential.
-* Pricing Strategy: The footwear segment generates the highest revenue. Consider reducing discounts on footwear and increasing discounts on clothing to boost sales in the clothing 
-                     category.
-* Continuous Monitoring: Regularly review the performance of product categories such as footwear and clothing, adjusting prices and marketing strategies as needed.
-* Quality and Service: Enhance product quality and customer service while implementing comprehensive marketing strategies to improve reviews and overall revenue.
-* Review Fluctuations: Analyze factors affecting monthly review variations and develop targeted marketing strategies accordingly.
-* Strategic Planning: Use the insights gained from this data to craft more effective, customer-focused business strategies.
+* **Product Development:** Focus on expanding product offerings in the "Expensive" and "Elite" categories to capitalize on their higher revenue potential.
+* **Pricing Strategy:** The footwear segment generates the highest revenue. Consider reducing discounts on footwear and increasing discounts on clothing to boost sales in the clothing 
+                        category.
+* **Continuous Monitoring:** Regularly review the performance of product categories such as footwear and clothing, adjusting prices and marketing strategies as needed.
+* **Quality and Service:** Enhance product quality and customer service while implementing comprehensive marketing strategies to improve reviews and overall revenue.
+* **Review Fluctuations:** Analyze factors affecting monthly review variations and develop targeted marketing strategies accordingly.
+* **Strategic Planning:** Use the insights gained from this data to craft more effective, customer-focused business strategies.
 * These recommendations are designed to improve product performance, increase revenue, and enhance the overall customer experience.
