@@ -1,6 +1,6 @@
 # Optimizing Online Sports Retail Revenue Through MYSQL
 "Analyze sales and product data for an online sports retailer to improve revenue generation."
-https://github.com/ashulakhera/Optimizing-Retail-Company-Revenues-MYSQL/blob/main/sports_logo.jpg?raw=true
+![](https://github.com/ashulakhera/Optimizing-Retail-Company-Revenues-MYSQL/blob/main/sports_logo.jpg?raw=true)
 
 ## Project Objective :
 The primary objective of this project is to enhance the revenue of an online retail company through data-driven insights and recommendations for the marketing and sales teams.
