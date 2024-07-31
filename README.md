@@ -1,4 +1,4 @@
-Project Objective
+## Project Objective :
 The primary objective of this project is to enhance the revenue of an online retail company through data-driven insights and recommendations for the marketing and sales teams. By analyzing various datasets related to pricing, revenue, ratings, reviews, descriptions, and website traffic, the project aims to optimize business strategies and drive growth.
 
 Data Analysis and SQL Functions
